@@ -1,4 +1,1 @@
-https://salty-woodland-91646.herokuapp.com/
-https://git.heroku.com/salty-woodland-91646.git
-
-https://whispering-basin-75292.herokuapp.com/ | https://git.heroku.com/whispering-basin-75292.git
+https://glacial-castle-23110.herokuapp.com/ | https://git.heroku.com/glacial-castle-23110.git
